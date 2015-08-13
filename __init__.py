@@ -21,7 +21,7 @@ def resolve(name):
     return f
 
 
-widget, base = loadUiType(resolve(r"ui\picker.ui"))
+widget, base = loadUiType(resolve(os.path.join("ui", "picker.ui")))
 
 def apply_theme(name):
     if name == "default" or not name:
