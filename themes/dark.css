@@ -1,0 +1,14 @@
+/*
+Theme-Name: Much Dark. Such wow
+*/
+
+QWidget {
+  background-color: #292c2f;
+  color: #aaaaaa;
+}
+
+
+QPushButton,
+QComboBox {
+  background-color: #4e545a;
+}

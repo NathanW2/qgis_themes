@@ -1,0 +1,7 @@
+[general]
+name=QGIS UI Themes
+description=UI Themes for QGIS. Because why not?
+version=1.0
+qgisMinimumVersion=2.0
+author=Nathan Woodrow
+email=madmanwoo@gmail.com
